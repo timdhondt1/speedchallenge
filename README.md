@@ -1,3 +1,18 @@
+My take on the Comma.ai programming challenge. Mostly meant as a nice personal project in between jobs, but might send it as my application to Comma.ai, who knows.
+
+Approach
+-----
+
+First plan of attack is to use the Farneback optical flow method as explained <a href="https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html"> Here </a>
+
+Install & run:
+-------------
+
+Coming soon...
+
+
+Original challenge description from commaai/speedchallenge:
+
 Welcome to the comma.ai Programming Challenge!
 ======
 
