@@ -5,16 +5,16 @@ Approach
 
 First plan of attack is to use the Farneback optical flow method as explained <a href="https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html"> Here </a>
 
-Install & run:
+Run:
 -------------
 
-Coming soon...
+Use `python denseopticalflow.py -h` for options during running. For example, to run dense optical flow with a new dataset, where video is shown of thepreprocessed data, and a small convolutional neural network is used for classification:
+
+`python denseopticalflow.py --show_video --new_data --model smallcnn`
 
 
 Original challenge description from commaai/speedchallenge:
-
-Welcome to the comma.ai Programming Challenge!
-======
+-----------------------------------------------------------
 
 Your goal is to predict the speed of a car from a video.
 
